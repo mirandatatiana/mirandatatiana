@@ -10,19 +10,30 @@ Frontend skills 💻
 HTML5
 <br>
 CSS
+<br>
 Javascript
+<br>
 Bootstrap
+<br>
 Bulma 
+<br>
 Sass
+<br>
 Git and GitHub
+<br>
 MUI
+<br>
 React 
 🚀
 
 Other skills 📌
+
 Figma
+
 Photoshop
+
 Premiere Pro
+
 Azure devops
 
 Soft Skill 🌍
