@@ -1,11 +1,11 @@
-Hi human! 
+<b>Hi human!</b> 
 😺
 
 My name is Tatiana - FRONTEND web development I studied in the ADAITW, based in Buenos Aires, Argentina.
 I am a curious person so I know some things for other fields like UX/UI designer, photography, filmmaker and Community management of social medias
 I am start also in the world of crypto and nft
 
-Frontend skills 💻
+<b>Frontend skills 💻 </b>
 
 HTML5
 <br>
@@ -26,18 +26,24 @@ MUI
 React 
 🚀
 
-Other skills 📌
+<b>Other skills 📌</b>
 
 Figma
+<br>
 Photoshop
+<br>
 Premiere Pro
+<br>
 Azure devops
 
-Soft Skill 🌍
+<b>Soft Skill 🌍</b>
 
 English c1
+<br>
 Spanish native
+<br>
 Scrum metologie 
+<br>
 I like to talk about a lot of things 
 
 
