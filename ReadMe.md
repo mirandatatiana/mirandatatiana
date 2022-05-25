@@ -8,6 +8,7 @@ I am start also in the world of crypto and nft
 Frontend skills 💻
 
 HTML5
+<br>
 CSS
 Javascript
 Bootstrap
