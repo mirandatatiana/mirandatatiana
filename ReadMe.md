@@ -29,11 +29,8 @@ React
 Other skills 📌
 
 Figma
-
 Photoshop
-
 Premiere Pro
-
 Azure devops
 
 Soft Skill 🌍
