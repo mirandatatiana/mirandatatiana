@@ -42,7 +42,7 @@ English c1
 <br>
 Spanish native
 <br>
-Scrum metologie 
+Scrum methodology
 <br>
 I like to talk about a lot of things 
 
