@@ -2,7 +2,7 @@
 😺
 
 My name is Tatiana - FRONTEND web development I studied in the ADAITW, based in Buenos Aires, Argentina.
-I am a curious person so I know some things for other fields like UX/UI designer, photography, filmmaker and Community management of social medias
+I am a curious person so I know some things for other fields like Product Owner, UX/UI designer, photography, filmmaker and Community management of social medias
 I am start also in the world of crypto and nft
 
 <b>Frontend skills 💻 </b>
