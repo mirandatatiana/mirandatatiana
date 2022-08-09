@@ -1,7 +1,7 @@
 <b>Hi human!</b> 
 😺
 
-My name is Tatiana - FRONTEND web development I studied in the ADAITW, based in Buenos Aires, Argentina.
+My name is Tatiana - FRONTEND development,currently working in Accenture as a Developer I studied in the ADAITW, based in Buenos Aires, Argentina.
 I am a curious person so I know some things for other fields like Product Owner, UX/UI designer, photography, filmmaker and Community management of social medias
 I am start also in the world of crypto and nft
 
@@ -24,7 +24,8 @@ Git and GitHub
 MUI
 <br>
 React 
-🚀
+<br>
+Angular
 
 <b>Other skills 📌</b>
 
