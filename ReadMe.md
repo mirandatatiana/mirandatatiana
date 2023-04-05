@@ -1,10 +1,11 @@
 <b>Hi human!</b> 
 😺
 
-My name is Tatiana - FRONTEND development,currently working in Accenture as a Developer I studied in the ADAITW, based in Buenos Aires, Argentina.
-I am a curious person so I know some things for other fields like Product Owner, UX/UI designer, photography, filmmaker and Community management of social medias
-I am start also in the world of crypto and nft
-
+Hi! I am Tatiana Front-End Developer, currently in Italy doing the processing of EU Citizen. 
+I am a curious person so I know some things for other fields like Product Owner, UX/UI designer, photography, filmmaker and Community management of social media.
+I am start also in the world of crypto and nft.
+I was working in a Enterprise (Accenture) starting in Product Owner area and finalized in Front-end Developer, working with Angular. I have C1 in English.
+I really like to learn new things and looking for a remote jobs!
 <b>Frontend skills 💻 </b>
 
 Angular
