@@ -7,9 +7,11 @@ I am start also in the world of crypto and nft
 
 <b>Frontend skills 💻 </b>
 
-HTML5
+Angular
 <br>
-CSS
+React
+<br>
+MUI
 <br>
 Javascript
 <br>
@@ -21,11 +23,9 @@ Sass
 <br>
 Git and GitHub
 <br>
-MUI
+HTML
 <br>
-React 
-<br>
-Angular
+CSS
 
 <b>Other skills 📌</b>
 
