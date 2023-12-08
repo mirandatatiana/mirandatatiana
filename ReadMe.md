@@ -1,12 +1,16 @@
 <b>Hi human!</b> 
 😺
 
-<br>Hi! I am Tatiana Front-End Developer, currently in Italy doing the processing of EU Citizen.<br>
-I have expertise in several areas of front-end development such as Angular, React, Typescript, CSS, and HTML. Additionally,I have experience with various front-end frameworks and libraries like Sass, Material UI, Bootstraps, and Bulma. And Ux/UI designer
-<br>
-I have knowledge of version control systems such as Git and are familiar with Azure DevOps, a popular platform for managing software development processes. And also have experience with Postman, a popular API testing tool, and I know about graphic design and multimedia software such as Photoshop, Lightroom, Premiere Pro, and Canva.
-<br>I was working in a Enterprise (Accenture) starting in Product Owner area and finalized in Front-end Developer, working with Angular. I have C1 in English.<br>
-<br>I really like to learn new things and looking for a remote jobs!<br>
+<br> 🇦🇷 Born in Argentina | 🇮🇹 Italian Passport Holder.
+
+Hola, ciao, and hello! 👋 I'm Tatiana, a tech enthusiast passionate about creating meaningful digital experiences. Proudly Argentine, I lived in Italy and now I am moving to Amsterdam. I've been on an exciting journey as a Front-End Developer and Product Owner at Accenture, where innovation meets impact.
+
+🖥️ Front-End Technologies: HTML5, CSS3, JavaScript (React, Angular), Typescript, Tailwind, Bootstrap, Material.
+🛠️ Product Management: Agile methodologies, user stories, backlog grooming.
+🎨 UX/UI Design: Wireframing, prototyping, usability testing, Adobe XD, Figma.
+🌐 International Perspective: Fluent in English C1, Spanish Native, and Italian B1 - facilitating effective cross-cultural communication.
+🌐 Global Citizen: A passport that opens doors and a mindset that embraces diversity. I thrive in collaborative, cross-functional environments where different perspectives fuel innovation
+🌱 Always Learning: Technology is a never-ending journey, and I'm committed to staying at the forefront. I am currently diving into Python.
 
 <br>Frontend skills 💻 </br>
 
