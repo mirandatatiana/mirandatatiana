@@ -3,7 +3,7 @@
 
 <br> 🇦🇷 Born in Argentina | 🇮🇹 Italian Passport Holder.
 
-Hola, ciao, and hello! 👋 I'm Tatiana, a tech enthusiast passionate about creating meaningful digital experiences. Proudly Argentine, I lived in Italy and now I am moving to Amsterdam. I've been on an exciting journey as a Front-End Developer and Product Owner at Accenture, where innovation meets impact.
+Hola, ciao, and hello! 👋 I'm Tatiana, a tech enthusiast passionate about creating meaningful digital experiences. Proudly Argentine, I live in Amsterdam. I've been on an exciting journey as a Front-End Developer and Product Owner at Accenture, where innovation meets impact.
 
 <br>🖥️ Front-End Technologies: HTML5, CSS3, JavaScript (React, Angular), Typescript, Tailwind, Bootstrap, Material.
 <br>🛠️ Product Management: Agile methodologies, user stories, backlog grooming, Azure DevOps.
